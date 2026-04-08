@@ -19,7 +19,25 @@ A collection of API tests written in Postman as part of learning API testing.
 https://jsonplaceholder.typicode.com
 
 
-# REST API Testing Exercises – Postman
+## Screenshots
+
+### 1. Collection overview
+![Collection Overview](screenshots/collection-overview.png)
+*Full test collection covering 6 endpoints: posts, comments, albums, photos, users, todos*
+
+### 2. Test script & response
+![Test Script](screenshots/scripts-status.png)
+*Test script with HTTP status and response body preview*
+
+### 3. Test results
+![Test Results](screenshots/test%20result.png)
+*Test results – all assertions passed*
+
+
+--------------------------------------------------
+
+
+# REST API - testowanie w programie Postman
 
 Kolekcja testów napisanych w Postmanie jako część nauki testowania API.
 
@@ -38,3 +56,19 @@ Kolekcja testów napisanych w Postmanie jako część nauki testowania API.
 
 ## Źródło API
 https://jsonplaceholder.typicode.com
+
+
+## Zdjęcia
+
+### 1. Podgląd kolekcji
+![Collection Overview](screenshots/collection-overview.png)
+*Kolekcja testów obejmująca 6 endpointów: posty, komentarze, albumy, zdjęcia, użytkownicy, zadania do zrobienia*
+
+### 2. Kod testu i odpowiedź serwera
+![Test Script](screenshots/scripts-status.png)
+*Skrypt testowy z walidacją statusu HTTP 200 oraz podgląd odpowiedzi*
+
+### 3. Wyniki testów
+![Test Results](screenshots/test%20result.png)
+*Wyniki testów – wszystkie asercje* zaliczone*
+
